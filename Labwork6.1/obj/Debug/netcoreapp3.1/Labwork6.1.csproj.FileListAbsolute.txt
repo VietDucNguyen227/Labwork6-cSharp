@@ -1,0 +1,14 @@
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\bin\Debug\netcoreapp3.1\Labwork6.1.exe
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\bin\Debug\netcoreapp3.1\Labwork6.1.deps.json
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\bin\Debug\netcoreapp3.1\Labwork6.1.runtimeconfig.json
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\bin\Debug\netcoreapp3.1\Labwork6.1.runtimeconfig.dev.json
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\bin\Debug\netcoreapp3.1\Labwork6.1.dll
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\bin\Debug\netcoreapp3.1\Labwork6.1.pdb
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.csproj.AssemblyReference.cache
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.AssemblyInfoInputs.cache
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.AssemblyInfo.cs
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.dll
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.pdb
+D:\Visual Studio\cSharp\MyProject\Labwork6.1\obj\Debug\netcoreapp3.1\Labwork6.1.genruntimeconfig.cache
